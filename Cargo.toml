@@ -2,6 +2,7 @@
 name = "async_exercise"
 version = "0.1.0"
 edition = "2024"
+default-run = "bank"
 
 [dependencies]
 rand = "0.10.3"
